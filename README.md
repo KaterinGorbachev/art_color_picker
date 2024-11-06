@@ -62,8 +62,10 @@ Eva Heller “Psicología del color: Cómo actúan los colores sobre los sentimi
 [Collection of Sanzo Wada colors in Figma](https://hexpot.com/blog/sanzo-wada-color-combinations)
 
 Inspiration from: 
-*https://experience-japan.info
-*https://irobe.ndc.co.jp/work/sony-park-exhibition-kyoto/
+
+-https://experience-japan.info
+
+-https://irobe.ndc.co.jp/work/sony-park-exhibition-kyoto/
 
 
 
