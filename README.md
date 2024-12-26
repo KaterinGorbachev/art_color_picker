@@ -1,5 +1,5 @@
 # art_color_picker
-Personal non comercial project 
+Personal non commercial project 
 
 ## Theory of color
 
